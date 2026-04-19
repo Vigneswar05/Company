@@ -166,7 +166,7 @@ const TemplatesPage = () => {
     {
       id: 1,
       category: 'Pottery',
-      title: "Clay Studio House - V1",
+      title: "Sample Pottery - V1",
       description: "Organic, earthy aesthetic designed to showcase the tactile beauty of artisanal pottery and ceramics.",
       image: "https://images.unsplash.com/photo-1525974362269-e00dfb49679f?q=80&w=2670&auto=format&fit=crop",
       liveLink: "https://potterytemplate1.netlify.app/"
@@ -174,7 +174,7 @@ const TemplatesPage = () => {
     {
       id: 2,
       category: 'Pottery',
-      title: "Clay Studio House - V2",
+      title: "Sample Pottery - V2",
       description: "A professional gallery for master ceramicists. Focuses on collection storytelling and workshop management.",
       image: "https://images.unsplash.com/photo-1565191999001-551c187427bb?q=80&w=2670&auto=format&fit=crop",
       liveLink: "https://potterytemplate2.netlify.app/"
@@ -182,7 +182,7 @@ const TemplatesPage = () => {
     {
       id: 5,
       category: 'Pottery',
-      title: "Clay Studio House - V3",
+      title: "Sample Pottery - V3",
       description: "A minimalist approach to showcasing handcrafted pottery and minimalist home decor items.",
       image: "https://images.unsplash.com/photo-1500313830540-7b66a9a3bf94?q=80&w=2670&auto=format&fit=crop",
       liveLink: "https://potterytemplate3.netlify.app/"
@@ -190,10 +190,18 @@ const TemplatesPage = () => {
     {
       id: 6,
       category: 'Pottery',
-      title: "Clay Studio House - V4",
+      title: "Sample Pottery - V4",
       description: "Capturing the process of creation. A portfolio built for studios that offer workshops and pottery classes.",
       image: "https://images.unsplash.com/photo-1593150531023-eb56d773410a?q=80&w=2670&auto=format&fit=crop",
       liveLink: "https://potterytemplate4.netlify.app/"
+    },
+    {
+      id: 8,
+      category: 'Pottery',
+      title: "Sample Pottery - V5",
+      description: "Dynamic landing page for client bookings and session displays. Perfect for fashion and portrait photographers.",
+      image: "https://images.unsplash.com/photo-1565191999001-551c187427bb?q=80&w=2670&auto=format&fit=crop",
+      liveLink: "https://potterytemplate5.netlify.app/"
     },
     {
       id: 4,
